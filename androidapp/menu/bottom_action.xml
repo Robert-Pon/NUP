@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Aukcje" android:icon="@drawable/ic_book" android:id="@+id/shop"/>
+    <item android:title="Ekologia" android:icon="@drawable/ic_nature" android:id="@+id/eco"/>
+    <item android:title="Dodaj" android:icon="@drawable/ic_add_circle" android:id="@+id/add_book"/>
+    <item android:title="Mapa" android:icon="@drawable/ic_map_black" android:id="@+id/mapV"/>
+    <item android:title="Profil" android:icon="@drawable/ic_account_circle" android:id="@+id/my_profile"/>
+</menu>
