@@ -1,0 +1,55 @@
+package com.books1.books;
+
+public class urls {
+    public String ip(){return "ip/host";}
+    public String register(){return "register.php";}
+    public String login(){return "login.php";}
+    public String login_checking(){return "login_checking.php";}
+    public String delete_reservation(){return "delete_reservation.php";}
+    public String get_profile_data(){return "get_profile_info.php";}
+    public String get_profile_data_to_product(){return "get_profile_data_to_product.php";}
+    public String add_book(){return "add_book.php";}
+    public String get_my_products(){return "get_my_products.php";}
+    public String get_book_by_id(){return "get_book_by_id.php";}
+    public String edit_book(){return "edit_book.php";}
+    public String delete_book(){return "delete_book.php";}
+    public String get_photo(){return "get_photo.php";}
+    public String upload_image(){return "upload_image.php";}
+    public String upload_named_image(){return "upload_named_image.php";}
+    public String upload_named_image_profile(){return "upload_profile_image.php";}
+    public String upload_compress_image(){return "upload_compress_image.php";}
+    public String upload_named_compress_image(){return "upload_named_compress_image.php";}
+    public String upload_named_compress_image_profile(){return "upload_compress_profile_image.php";}
+    public String get_products(){return "get_products.php";}
+    public String photos_dir(){return "xIsqweriosamuiwrunsdkjfkaurpw";}
+    public String photos_dir_prof(){return "xIsqweriosamuiwrunsdkjfkaurpwprofiles";}
+    public String photos_compress_dir_prof(){return "xIsqweriosamuiwrunsdkjfkaurpwprofilescompress";}
+    public String photos_compress_dir(){return "xIsqweriosamuiwrunsdkjfkaurpwcompress";}
+    public String buy_book(){return "buy_book.php";}
+    public String see_notifications(){return "see_notifications.php";}
+    public String get_notifications(){return "get_notifications.php";}
+    public String accept_sold(){return "accept_sold.php";}
+    public String cancel_sold(){return "cancel_sold.php";}
+    public String cancel_my_shop(){return "cancel_my_shop.php";}
+    public String get_my_shop(){return "get_my_shop.php";}
+    public String add_localization(){return "upload_localization.php";}
+    public String add_school(){return "school_adder.php";}
+    public String search(){return "search_book.php";}
+    public String get_eco(){return "eco_data.php";}
+    public String map_selector(){return "map_selector.php";}
+    public String get_more_products(){return "get_more_products.php";}
+    public String search_profiles(){return "search_profile.php";}
+    public String profile_setter(){return "profile_setter.php";}
+    public String account_back(){return "account_back.php";}
+    public String products_from_map_selector(){return "products_from_map_selector.php";}
+    public String password_changer(){return "password_changer.php";}
+    public String get_tag(){return "get_tag.php";}
+    public String create_tag(){return "create_tag.php";}
+    public String search_tag(){return "search_tag.php";}
+    public String exchange_book(){return "exchange_book.php";}
+    public String get_school(){return "get_school.php";}
+    public String get_profile_localization(){return "get_profile_localization.php";}
+    public String get_profile_data_1(){return "get_profile_info_1.php";}
+    public String get_profile_products(){return "get_profile_products.php";}
+    public String get_profile_data_to_product_1(){return "get_profile_data_to_product_1.php";}
+}
