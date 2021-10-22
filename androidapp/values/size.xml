@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sizes">
+        <item>A8</item>
+        <item>A7</item>
+        <item>A6</item>
+        <item>A5</item>
+        <item>A4</item>
+        <item>A3</item>
+        <item>A2</item>
+        <item>A1</item>
+        <item>A0</item>
+        <item>B8</item>
+        <item>B7</item>
+        <item>B6</item>
+        <item>B5</item>
+        <item>B4</item>
+        <item>B3</item>
+        <item>B2</item>
+        <item>B1</item>
+        <item>B0</item>
+        <item>C8</item>
+        <item>C7</item>
+        <item>C6</item>
+        <item>C5</item>
+        <item>C4</item>
+        <item>C3</item>
+        <item>C2</item>
+        <item>C1</item>
+        <item>C0</item>
+    </string-array>
+</resources>

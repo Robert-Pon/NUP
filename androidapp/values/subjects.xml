@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="subjects">
+        <item>J. Polski</item>
+        <item>J. Angielski</item>
+        <item>J. Niemiecki</item>
+        <item>J. Francuski</item>
+        <item>J. Rosyjski</item>
+        <item>J. Hiszpański</item>
+        <item>Matemtayka</item>
+        <item>Fizyka</item>
+        <item>Biologia</item>
+        <item>Chemia</item>
+        <item>Geografia</item>
+        <item>Przyroda</item>
+        <item>Informatyka</item>
+        <item>WOS</item>
+        <item>Religia</item>
+        <item>Plastyka</item>
+        <item>Muzyka</item>
+        <item>Rysunek</item>
+        <item>Technika</item>
+        <item>Przedsiębiorczość</item>
+        <item>Religia</item>
+        <item>Edukacja dla bezpieczeństwa</item>
+        <item>Historia</item>
+        <item>Inne</item>
+    </string-array>
+</resources>

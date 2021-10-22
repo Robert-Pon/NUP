@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="types">
+        <item>Przedszkole</item>
+        <item>Zespół szkół</item>
+        <item>Liceum ogólnokształcące</item>
+        <item>Liceum plastyczne</item>
+        <item>Technikum</item>
+        <item>Szkoła zawodowa</item>
+        <item>Politechnika</item>
+        <item>Uniwersytet</item>
+        <item>Szkoła policealna</item>
+        <item>Szkoła muzyczna</item>
+        <item>Szkoła specjalna</item>
+        <item>Szkoła artystyczna</item>
+
+    </string-array>
+</resources>

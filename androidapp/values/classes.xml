@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="classes">
+        <item>Przedszkole</item>
+        <item>1 szkoły podstawowej</item>
+        <item>2 szkoły podstawowej</item>
+        <item>3 szkoły podstawowej</item>
+        <item>4 szkoły podstawowej</item>
+        <item>5 szkoły podstawowej</item>
+        <item>6 szkoły podstawowej</item>
+        <item>7 szkoły podstawowej</item>
+        <item>8 szkoły podstawowej</item>
+        <item>1 liceum</item>
+        <item>2 liceum</item>
+        <item>3 liceum</item>
+        <item>4 liceum</item>
+        <item>1 technikum</item>
+        <item>2 technikum</item>
+        <item>3 technikum</item>
+        <item>4 technikum</item>
+        <item>5 technikum</item>
+        <item>1 rok studiów</item>
+        <item>2 rok studiów</item>
+        <item>3 rok studiów</item>
+        <item>4 rok studiów</item>
+        <item>5 rok studiów</item>
+        <item>5 &lt; rok studiów</item>
+
+    </string-array>
+</resources>
