@@ -1,5 +1,5 @@
-# NUP
-Kod aplikacji NUP.
+# Publicati
+Kod aplikacji NUP (obecenie Publicati), kod aplikacji jest aktualny dla wersji 1.0.
 
 # androidapp - katalog do plików aplikacji na Androida
 
